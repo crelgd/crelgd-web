@@ -80,10 +80,6 @@ body {
     font-style: normal;
 }
 
-.osu-link a:hover {
-    border-bottom: 1px solid #ff0000;
-}
-
 .github-link {
     text-align: center;
     position: absolute;
@@ -106,8 +102,4 @@ body {
     font-family: "Titillium Web", sans-serif;
     font-weight: 200;
     font-style: normal;
-}
-
-.github-link a:hover {
-    border-bottom: 1px solid #ff0000;
 }
